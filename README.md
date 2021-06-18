@@ -1,1 +1,1 @@
-# egz_uzd
+# Egzamino užduotis
